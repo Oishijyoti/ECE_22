@@ -1,0 +1,2 @@
+1. Study the relationship between phase voltage and line voltage of a wye (Y) connected 3-phase balanced system.
+2. Study the relationship between phase current and line current of a delta connected 3-phase balanced system.
